@@ -1,0 +1,1 @@
+import{x as t,k as a,j as o,y as c,o as u}from"./KYNX8LKV.js";function f(e){o===null&&t(),c&&o.l!==null?l(o).m.push(e):a(()=>{const n=u(e);if(typeof n=="function")return n})}function l(e){var n=e.l;return n.u??(n.u={a:[],b:[],m:[]})}export{f as o};

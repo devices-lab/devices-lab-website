@@ -1,0 +1,1 @@
+import{f as o,a as r}from"../chunks/BFubLEBJ.js";const t=async()=>({category:"shop"}),c=Object.freeze(Object.defineProperty({__proto__:null,load:t},Symbol.toStringTag,{value:"Module"}));var s=o('<header class="mb-5 text-center"><h1 class="display-4">Shop</h1></header>');function l(e,n){var a=s();r(e,a)}export{l as component,c as universal};
